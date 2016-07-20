@@ -17,6 +17,8 @@
     <properties>
         <env>dev</env>
         <struts.version>2.3.15.1</struts.version>
+        <spring.version>3.2.9.RELEASE</spring.version>
+        <junit.version>4.5</junit.version>
     </properties>
 
     <dependencies>
